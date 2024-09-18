@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kriti.
 - 👀 I’m interested in drawing and reading.
 - 🌱 I’m currently doing my graduation from BTECH in AI/ML. And I'm a first year student.
-- 💞️ I’m looking to collaborate with other people.
 - 📫 You can reach me on LinkedIn, I'm providing the link below.
 - 😄 LinkedIn: https://www.linkedin.com/in/kriti-0853452b7
 - ⚡ I've recently joined Github so I'm not at all familiar with it, but I surely look forward to use it well.
